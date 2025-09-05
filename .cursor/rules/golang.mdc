@@ -1,0 +1,6 @@
+---
+description:
+globs:
+alwaysApply: true
+---
+ - Never use testify assert. Instead use vanilla Golang standard library for assertions.
